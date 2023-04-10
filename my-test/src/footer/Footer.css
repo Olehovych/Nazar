@@ -1,0 +1,15 @@
+footer{
+    padding-top: 90px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+footer .titleService{
+    margin-top: 10px;
+    font-size: 26px;
+}
+footer img{
+    margin: 0 auto;
+    width: 350px;
+    height: 69px;
+}

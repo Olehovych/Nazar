@@ -1,0 +1,34 @@
+#serviceBlock{
+    background-color: #5889b4;
+    display: flex;
+    flex-direction: column;  
+    width: 100%;
+  }
+  h2{
+      color: #343045;;
+      font-family: 'Rubik', sans-serif;
+      text-align: center;
+      font-size: 40px;
+      margin: 20px 0;
+  }
+  .title{
+      color: #343045;;
+      width: 100%;
+      text-align: center;
+  }
+  .titleService{
+      margin-top: 30px;
+      text-align: center;
+      font-family: "font";
+      font-size: 32px;
+      color: #343045;;
+  }
+  .descriptionService{
+      color: white;
+      font-family: 'Montserrat', sans-serif;
+      margin-bottom: 35px;
+  }
+  #description{
+      padding-left: 30px;
+      padding-right: 30px;
+  }

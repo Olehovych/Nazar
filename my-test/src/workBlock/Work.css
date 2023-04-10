@@ -1,0 +1,17 @@
+#workBlock{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #5889b4;
+}
+.photoBlock{
+    
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.photo{
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+}
